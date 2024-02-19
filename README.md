@@ -21,11 +21,12 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![2024-02-19 08-20-45(1)](https://github.com/michaeldacanay/codepath-android-prework/assets/18317412/80c6fc2d-ba1a-4da1-9dad-d6fd43c0666a)
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with OBS, Adapter, and ImageOptim.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -33,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app. The majority of challenges were in the initial environment set up.
 
 ## License
 
