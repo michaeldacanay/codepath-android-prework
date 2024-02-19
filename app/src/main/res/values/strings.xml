@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldViews</string>
+    <string name="michael_intro">Hello World! My name is Michael Dacanay. I love spending time with family, traveling, and reading.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
