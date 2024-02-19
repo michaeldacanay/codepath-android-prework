@@ -21,7 +21,9 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![2024-02-19 08-20-45(1)](https://github.com/michaeldacanay/codepath-android-prework/assets/18317412/80c6fc2d-ba1a-4da1-9dad-d6fd43c0666a)
+<!-- ![2024-02-19 08-20-45(1)](https://github.com/michaeldacanay/codepath-android-prework/assets/18317412/80c6fc2d-ba1a-4da1-9dad-d6fd43c0666a) -->
+![2024-02-19 08-20-45(2)](https://github.com/michaeldacanay/codepath-android-prework/assets/18317412/76a40eac-082e-4462-8063-425b119af6a0)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
